@@ -1,0 +1,7 @@
+{
+  "name": "TestGoogleLogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
